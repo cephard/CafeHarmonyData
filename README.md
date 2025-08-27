@@ -35,3 +35,15 @@ While we still consider the overall trends in the data, we pay particular attent
   <li>Categorising data for better representation such as age(Youth, Adult, etc) or location into urban and rural</li>
   <li>Use of advanced formular such as IFS, XLOOKUP and VLOOKUP to categorise data</li>
 </ol>
+
+# Trend of sales over the years
+<img src ="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png"/>
+The chart portrays that sales remained relatively stable throughout the year, generally ranging between 700 and 1,000.
+Modest peaks occurred in April and July, indicating stronger performance, while slight declines were observed in February, October, and December. 
+Overall, while sales were consistent, the trend suggests a gradual decline toward year-end. This highlights the need to explore new strategies to sustain growth and prevent further decreases.
+
+#Overall Business Rating
+<img src ="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png"/>
+The average rating of 3.05 is above average, suggesting that overall, the products have a positive impact on customer satisfaction. 
+Although the average rating was great the general customer comments showed that the products could be better
+
