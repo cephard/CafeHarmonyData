@@ -1,5 +1,7 @@
 <h1>CAFÉ HARMONY</h1>
 
+<img src ="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png"/>
+
 <h2>Dataset Used </h2>
 - <a href="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe_Harmony_Capstone_Project.xlsx">Datset</a>
 
