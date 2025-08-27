@@ -42,8 +42,98 @@ The chart portrays that sales remained relatively stable throughout the year, ge
 Modest peaks occurred in April and July, indicating stronger performance, while slight declines were observed in February, October, and December. 
 Overall, while sales were consistent, the trend suggests a gradual decline toward year-end. This highlights the need to explore new strategies to sustain growth and prevent further decreases.
 
-#Overall Business Rating
+# Overall Business Rating
 <img src ="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png"/>
 The average rating of 3.05 is above average, suggesting that overall, the products have a positive impact on customer satisfaction. 
 Although the average rating was great the general customer comments showed that the products could be better
+
+## Which menu items are performing the best across different locations?
+# 1. Which top-selling menu product generate the most revenue?
+
+<img src ="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png"/>
+
+Muffins generates the highest revenue overall but thrives in Urban areas as airport and Uptown.
+Iced tea has the best overall appeal to Suburbs and downtown.
+The margin of a product’s consumption is generally low in the respective locations.
+In general Sandwiches have the lowest overall revenue
+
+# 2. What is the customer profile that tends to spend the most (age, gender, orpreferred product)? 
+<img src ="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png"/>
+• Female customers are the overall highest revenue on all sectors.
+• By all age groups and Locations, Female customers have had the highest overall count on revenue
+
+# 3. How can the café improve its stock management to avoid running out of popular items while also reducing overstock?
+<img src ="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png"/>
+• Overstocked Items: Positive metrics, such as coffee beans.
+• Understocked Items: Negative metrics, like milk.
+• Ideal Stock: Maintained at a 0 margin, exemplified by juice concentrate.
+• There is a significant stock imbalance in the café, with majority of the inventory not meeting the required standards leading to waste customer unfulfillment.
+
+# 4. Are there any employee performance issues that require attention?
+<img src ="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png"/>
+• Table A (left) indicates that the average performance targets for the top 5 employees are less than half of their achievement, suggesting that expectations should be raised.
+• Table B (right) highlights the employees who are underperforming, not meeting the bare minimum.
+• This implies that the targets set are either unreasonably low for some employees or unrealistically high for others.
+
+## Business Recommendations
+# 1. Optimize Menu & Inventory
+Focus on demand
+Instead of focusing on the amount of inventory
+in numbers, the café should consider stock in
+terms of demographic demand and supply.
+
+Double Down on Top Sellers:
+Expand muffin flavors/options in Urban
+locations (airports, Uptown).
+Promote Iced Tea combos in
+Suburbs/Downtown via signage or discounts.
+
+Reduce Sandwich Waste: Test smaller batches or revamp recipes to
+boost appeal of Sandwich and Croissant
+
+# 2. Targeted Marketing
+
+# 3. Improve Stock Efficiency
+Adjust Orders:
+Reduce coffee bean, sandwich bread and sugar
+purchases and reallocate budget to milk,
+croissant dough, Iced tea bags, and muffins mix.
+Use Juice Concentrate’s "0 margin" model as a
+benchmark for other items inventory.
+
+
+Tech Solution:
+Developed and implemented dynamic inventory
+tracking with real-time low-stock alerts to ensure
+product availability.
+Integrated a Point of Sale (POS) management
+system for accurate tracking of both sales and
+inventory.
+Configured weekly automated stock alerts to
+enable timely replenishment and reduce
+stockouts.
+
+
+# 4. Employee Performance
+RAISE TARGETS: Set higher but
+achievable goals for top performers
+
+TRAINING/SUPPORT: Address
+underperformers with coaching or role
+adjustments
+
+# 5. Location-Specific Strategies
+
+Suburban/Downtown:
+Highlight Iced Tea as a
+"local favorite" in rural
+marketing.
+
+Urban Focus: Capitalize
+on muffin/Capuchino
+demand with grab-andgo options.
+
+
+
+
 
