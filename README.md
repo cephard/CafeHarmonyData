@@ -55,7 +55,7 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ### 2. Business Rating  
-<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Customer%20Ratings.png" width="800"/>  
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Customer%20Ratings.png" width="400"/>  
 
 - **Average rating: 3.05** – above average but leaves room for improvement.  
 - Customer comments suggest **products can be improved** despite positive ratings.  
@@ -72,7 +72,7 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ### 4. Customer Profile – Who Spends the Most?  
-<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Sales%20By%20Gender.png" width="800"/>  
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Sales%20By%20Gender.png" width="400"/>  
 
 - **Female customers** consistently generate the highest revenue across **all age groups and locations**.  
 - Marketing campaigns targeting women could maximize sales.  
