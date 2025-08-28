@@ -43,6 +43,9 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ## 📊 Key Insights  
+### Dashboard
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Cafe%20Harmony%20Dashboard.png" width="800"/>  
+
 
 ### 1. Trend of Sales Over the Year  
 <img src="https://github.com/cephard/CafeHarmonyData/blob/main/Trend%20of%20sales.png" width="800"/>  
@@ -63,7 +66,7 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ### 3. Best-Performing Menu Items  
-<img src="" width="800"/>  
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Revenue%20by%20product.png" width="800"/>  
 
 - **Muffins** → Top revenue generator, especially in **Urban locations** (airports, uptown).  
 - **Iced Tea** → Best performer in **Suburbs/Downtown**.  
