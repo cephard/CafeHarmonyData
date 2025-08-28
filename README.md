@@ -45,7 +45,7 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ## 📊 Key Insights  
 
 ### 1. Trend of Sales Over the Year  
-<img src="https://raw.githubusercontent.com/cephard/CafeHarmonyData/main/Cafe%20Harmony%20Dashboard.png" width="800"/>  
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Trend%20of%20sales.png" width="800"/>  
 
 - Sales remained stable between **700–1,000** per month.  
 - Peaks: **April & July** (stronger performance).  
@@ -55,7 +55,7 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ### 2. Business Rating  
-<img src="https://raw.githubusercontent.com/cephard/CafeHarmonyData/main/Cafe%20Harmony%20Dashboard.png" width="800"/>  
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Customer%20Ratings.png" width="800"/>  
 
 - **Average rating: 3.05** – above average but leaves room for improvement.  
 - Customer comments suggest **products can be improved** despite positive ratings.  
@@ -63,7 +63,7 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ### 3. Best-Performing Menu Items  
-<img src="https://raw.githubusercontent.com/cephard/CafeHarmonyData/main/Cafe%20Harmony%20Dashboard.png" width="800"/>  
+<img src="" width="800"/>  
 
 - **Muffins** → Top revenue generator, especially in **Urban locations** (airports, uptown).  
 - **Iced Tea** → Best performer in **Suburbs/Downtown**.  
@@ -72,7 +72,7 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ### 4. Customer Profile – Who Spends the Most?  
-<img src="https://raw.githubusercontent.com/cephard/CafeHarmonyData/main/Cafe%20Harmony%20Dashboard.png" width="800"/>  
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Sales%20By%20Gender.png" width="800"/>  
 
 - **Female customers** consistently generate the highest revenue across **all age groups and locations**.  
 - Marketing campaigns targeting women could maximize sales.  
@@ -80,7 +80,7 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ### 5. Stock Management  
-<img src="https://raw.githubusercontent.com/cephard/CafeHarmonyData/main/Cafe%20Harmony%20Dashboard.png" width="800"/>  
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Stock%20Performance.png" width="800"/>  
 
 - **Overstocked:** Coffee beans (risk of waste).  
 - **Understocked:** Milk (risk of running out).  
@@ -90,8 +90,8 @@ This approach highlights the **minority (20%) of data points that drive the majo
 ---
 
 ### 6. Employee Performance  
-<img src="https://raw.githubusercontent.com/cephard/CafeHarmonyData/main/Cafe%20Harmony%20Dashboard.png" width="800"/>  
-
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Top%205%20Employee.png" width="400"/>  
+<img src="https://github.com/cephard/CafeHarmonyData/blob/main/Bottom%205%20Employee.png" width="400"/>  
 - Top employees are **achieving far above their low targets** → targets should be raised.  
 - Some employees are **underperforming**, not meeting even the minimum.  
 - Targets need to be **realigned** to be both **challenging and realistic**.  
