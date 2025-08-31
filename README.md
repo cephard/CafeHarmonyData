@@ -5,6 +5,18 @@ The goal: **identify the top 20% of customers, products, and employees that driv
 
 ---
 
+## Business Overview
+
+Welcome to Café Harmony, a new and exciting virtual café chain! The café specializes in offering a
+variety of drinks, snacks, and light meals to customers. Over the past year, Café Harmony has
+seen impressive growth but now faces new challenges as the company is scaling to meet customer
+demand. The café has multiple locations across the city, each with its own performance metrics
+and unique customer preferences.
+
+# Objective
+Your job is to dive into the business data of Café Harmony, clean and analyze it, and ultimately
+build a dashboard that will help the company's management make key decisions for growth.
+
 ## 📂 Dataset  
 - [Cafe Harmony Dataset (Excel File)](https://github.com/cephard/CafeHarmonyData/blob/main/Cafe_Harmony_Capstone_Project.xlsx)
 
