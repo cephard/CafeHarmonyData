@@ -1,4 +1,4 @@
-# ☕ Café Harmony – Data Analytics Capstone Project  
+# ☕ Café Harmony – Sales & Performance Analysis
 
 This project analyzes **customer behavior, product performance, stock management, and employee efficiency** for Café Harmony using the **Pareto Principle (80/20 rule)**.  
 The goal: **identify the top 20% of customers, products, and employees that drive 80% of café revenue** and provide actionable recommendations for business growth.  
